@@ -1722,7 +1722,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
-        </td>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Ishaan-3107">
+                    <img src="https://avatars.githubusercontent.com/u/130295410?v=4" width="100px;" alt="Ishaan Bhardwaj"/>
+                    <br />
+                    <sub><b>Ishaan Bhardwaj</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
